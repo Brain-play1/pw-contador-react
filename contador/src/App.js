@@ -13,7 +13,7 @@ export default () => (
               <div className="Cards">
 
                   <Card titulo="Contador componentizado" color="#0d3024">
-                     <Contador numeroInicial={10} />
+                     <Contador numeroInicial={5} />
                   </Card>
 
               </div>
