@@ -1,6 +1,6 @@
 import './Contador.css'
 
-import React, { Component } from  'react';
+import React, { Component } from  'react'
 
 import Display from './Display'
 import Botoes from './Botoes'
